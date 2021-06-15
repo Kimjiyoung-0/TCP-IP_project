@@ -33,5 +33,5 @@ OX퀴즈 기능까지 더해 사람들이 OX퀴즈와 채팅을 동시에 즐길
 
 ![image](https://user-images.githubusercontent.com/71188378/122050867-e5856f00-ce1e-11eb-84f1-0128acc93a0b.png)
 
-![image](https://user-images.githubusercontent.com/71188378/122050475-73ad2580-ce1e-11eb-8356-0668cc266259.png)
+
 
