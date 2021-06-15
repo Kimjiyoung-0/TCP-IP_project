@@ -30,8 +30,10 @@ OX퀴즈 기능까지 더해 사람들이 OX퀴즈와 채팅을 동시에 즐길
 ![image](https://user-images.githubusercontent.com/71188378/122050690-aa833b80-ce1e-11eb-8c75-a2dae13c44b7.png)
 
 유저 수가 두명이 되자마자 퀴즈가 시작됩니다.
-
 ![image](https://user-images.githubusercontent.com/71188378/122050867-e5856f00-ce1e-11eb-84f1-0128acc93a0b.png)
 
+4개의 퀴즈를 풀고난 상황입니다.
+보시다시피 정답입니다 혹은 오답입니다 메세지는 답을 제출한 본인에게만 보여지게끔 설계되었습니다.
+![image](https://user-images.githubusercontent.com/71188378/122051096-28dfdd80-ce1f-11eb-95aa-d5da91a06ce9.png)
 
 
