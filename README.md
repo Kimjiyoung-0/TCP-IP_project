@@ -42,7 +42,8 @@ OX퀴즈 기능까지 더해 사람들이 OX퀴즈와 채팅을 동시에 즐길
 ![image](https://user-images.githubusercontent.com/71188378/122154593-4b660b00-cea0-11eb-9407-f9315624693a.png)
 
 4개의 퀴즈를 풀고난 상황입니다.<br>
-퀴즈의 제한시간을 늘려야 한다면 Time.sleep()의 시간을 늘리면 해결됩니다.
-![image](https://user-images.githubusercontent.com/71188378/122051096-28dfdd80-ce1f-11eb-95aa-d5da91a06ce9.png)
+퀴즈의 제한시간을 늘려야 한다면 Time.sleep()의 시간을 늘리면 해결됩니다.<br>
+![image](https://user-images.githubusercontent.com/71188378/122156150-5ff7d280-cea3-11eb-9c3e-fd744bd3a693.png)
+
 
 
