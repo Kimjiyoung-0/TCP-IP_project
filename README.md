@@ -26,17 +26,21 @@ OX퀴즈 기능까지 더해 사람들이 OX퀴즈와 채팅을 동시에 즐길
 처음 클라이언트를 실행했을때의 화면 입니다.<br>
 이상태에서 아무것도 입력하지 않고 엔터를 치면 127.0.0.1로 연결됩니다.<br>
 (포트는 코드에서 2500으로 설정되었습니다.)<br>
-![image](https://user-images.githubusercontent.com/71188378/122050519-7c9df700-ce1e-11eb-90d4-c6a7f6a2a5b3.png)
+![image](https://user-images.githubusercontent.com/71188378/122154468-0e9a1400-cea0-11eb-860c-1da8f5f07424.png)
+
 
 서버를 실행하고 한유저가 접속했을때의 상황입니다.유저가 <br>
 두명이상일 때만 퀴즈가 시작되기 때문에 한명의 유저는 채팅을 치는 상황입니다.<br>
-![image](https://user-images.githubusercontent.com/71188378/122050690-aa833b80-ce1e-11eb-8c75-a2dae13c44b7.png)
+![image](https://user-images.githubusercontent.com/71188378/122154506-207bb700-cea0-11eb-9168-0267cda186b5.png)
 
 유저 수가 두명이 되자마자 퀴즈가 시작됩니다.<br>
-![image](https://user-images.githubusercontent.com/71188378/122050867-e5856f00-ce1e-11eb-84f1-0128acc93a0b.png)
+![image](https://user-images.githubusercontent.com/71188378/122154554-34bfb400-cea0-11eb-9682-1dbc76dcef65.png)
+'O' , 'X'를 입력하여 정답을 제출할 수 있습니다. <br>
+정답입니다 혹은 오답입니다 메세지는 답을 제출한 본인에게만 보여지게끔 설계되었습니다.<br>
+다른 유저는 상대가 O 또는 X를 쓴것 만 보입니다. <br>
+![image](https://user-images.githubusercontent.com/71188378/122154593-4b660b00-cea0-11eb-9407-f9315624693a.png)
 
 4개의 퀴즈를 풀고난 상황입니다.<br>
-보시다시피 정답입니다 혹은 오답입니다 메세지는 답을 제출한 본인에게만 보여지게끔 설계되었습니다.<br>
 퀴즈의 제한시간을 늘려야 한다면 Time.sleep()의 시간을 늘리면 해결됩니다.
 ![image](https://user-images.githubusercontent.com/71188378/122051096-28dfdd80-ce1f-11eb-95aa-d5da91a06ce9.png)
 
