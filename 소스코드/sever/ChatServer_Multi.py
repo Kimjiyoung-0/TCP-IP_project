@@ -18,7 +18,6 @@ class MultiChatSever:
         self.s_sock.setsockopt(SOL_SOCKET, SO_REUSEADDR, 1)#
         self.s_sock.bind((self.ip, self.port))#bind 항수를 통해 생성된 소켓을 특정호스트와 포트에 연결
         print("Waiting for clients...")#메세지 출력
-        print(self.OXquiz[0])
         self.s_sock.listen(100)#Socket을 수신상태로 둡니다.
         self.accept_client()#밑에 정의된 accept_client()함수 실행
 
